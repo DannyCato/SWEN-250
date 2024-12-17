@@ -1,0 +1,144 @@
+SWEN-250 Document Analysis Journal Part 2 version 2
+
+Implement these functions in the order below.
+
+Your name: Danny Catorcini
+
+================================================================
+process_word
+Start
+Estimated Time	00 30
+Plan:
+(Order of implementation, testing approach, etc.)
+Make sure parameters are valid
+create list if needed, process word, add if needed
+
+Complete
+Actual Time	00 45
+Observations:
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+A litt harder than i expected but a switch statement made my life
+a lot easier. I tried hard to not redo work with how I made my
+code, but the assignment made it quite hard
+
+
+================================================================
+get_first_entry
+Start
+Estimated Time	00 15
+Plan:
+two if statements to check if the parameters are met, if both
+are then fill entry and return, else continue and fill with
+empty values
+
+Complete
+Actual Time	00 05
+Observations:
+As easy as it looked
+
+
+================================================================
+get_next_entry
+Start
+Estimated Time	00 10
+Plan:
+(Order of implementation, testing approach, etc.)
+Do something simliar to get_first_entry probably copy a bunch 
+of code
+
+Complete
+Actual Time	00 09
+Observations:
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+Was as easy as it looked, but I almost messed up how if-else 
+control flow works
+
+================================================================
+get_last_entry
+Start
+Estimated Time	00 05
+Plan:
+(Order of implementation, testing approach, etc.)
+Before this I did get_current_entry and it's going to make this
+and all future functions like this one so easy
+
+Complete
+Actual Time	00 03
+Observations:
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+copied from get_first_entry and changed one line of code
+
+
+================================================================
+get_prev_entry
+Start
+Estimated Time	00 10
+Plan:
+(Order of implementation, testing approach, etc.)
+Copy from get_next_entry and change a line
+
+Complete
+Actual Time	00 02
+Observations:
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+https://www.youtube.com/watch?v=zVmyqgn64II
+
+================================================================
+read_file through test 56
+Start
+Estimated Time	00 30
+Plan:
+Gonna follow what the powerpoint and cplusplus.com tell me is
+the right order of implementation to make sure it doesn't break
+gonna read new words through punctuation marks, line breaks, and
+spaces
+
+Complete
+Actual Time	00 30
+Observations:
+Working as expected with fgetc
+
+
+================================================================
+read_file MLK_dream_excerpt only
+Start
+Estimated Time	00 10
+Plan:
+Seemed like it already worked with the other thing
+
+Complete
+Actual Time	00 15
+Observations:
+worked
+
+
+================================================================
+write_unique_word_list_to_csv_file
+Start
+Estimated Time	00 10
+Plan:
+Making a csv file is easy
+
+Complete
+Actual Time	02 00
+Observations:
+Turns out the implementation of my find_word fuction was wrong
+and causing my nodes to be inserted into the list out of order.
+Took a while to find that it was the issue, but after 
+refactoring in both assignments, it looks like it works now
+
+
+================================================================
+Add four unit tests to the unit_tests_student.c file
+Start
+Estimated Time	HH MM
+Plan:
+(Order of implementation, testing approach, etc.)
+
+Complete
+Actual Time	HH MM
+Observations:
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+
+
+================================================================

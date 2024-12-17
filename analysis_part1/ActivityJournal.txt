@@ -1,0 +1,129 @@
+SWEN-250 Document Analysis Journal
+
+Implement these functions in the order below.
+
+Your name: Danny Catorcini
+
+================================================================
+create_node
+Start
+Estimated Time	00 15
+Plan:
+Not quite sure, make a struct, fill it with information, and
+hope it works on completion
+
+Complete
+Actual Time	00 17
+Observations:
+No new revelations. Did the work and made the struct after a bit
+of stupid error making over forgetting how structs work
+
+================================================================
+valid_parameters
+Start
+Estimated Time	00 10
+Plan:
+looks like it's just:
+if ( p_list != NULL && word != NULL && *word )
+	{
+		return 1 ;
+	}
+	return 0 ;
+
+Complete
+Actual Time	00 02
+Observations:
+it was that easy
+
+================================================================
+
+add_node_at_head
+Start
+Estimated Time	00 30
+Plan:
+Probably going to start with finding out where all the previous
+functions could be used to make my life easier
+
+Complete
+Actual Time	00 10
+Observations:
+It was really simple just checking to see if values are valid
+and then filling in information
+
+
+================================================================
+clear_linked_list
+Start
+Estimated Time	00 20
+Plan:
+Start by checking if LL is not null. Then, use a while loop to
+clear the list of nodes, after clear all the pointers in LL,
+return number of nodes removed. else, return 0 ;
+
+Complete
+Actual Time	00 25
+Observations:
+Needed to make some changes to add_node_at_head, but overall it
+seemed that it worked remarkably well
+
+
+================================================================
+add_node_after_current
+Start
+Estimated Time	00 10
+Plan:
+Gonna do what i did to add_node_at_head but modify it slightly
+
+Complete
+Actual Time	00 30
+Observations:
+Very, very different from what I was expecting. I had a few
+issues with keeping track of all the -> in the code so I had
+to refactor a few things
+
+
+================================================================
+get_current_word
+Start
+Estimated Time	00 07
+Plan:
+Literally going to access the current node in the linked list
+and return a char*
+
+Complete
+Actual Time	00 02
+Observations:
+Lmao it was that easy
+
+
+================================================================
+get_previous_word and get_next_word
+Start
+Estimated Time	00 10
+Plan:
+same thing as the last one
+
+Complete
+Actual Time	00 05
+Observations:
+Literally changed 4 lines of code from get_current_word 
+
+
+================================================================
+find_word
+Start
+Estimated Time	01 00
+Plan:
+Not sure yet, will defintely follow the whole novel above the
+function though for further instruction
+
+Complete
+Actual Time	05 00
+Observations:
+It's hard to focus on such long methods if you just attack it
+all at once. Incremental development would've made my process
+so much faster, but for whatever reason i decided that I would
+not do that
+
+
+================================================================

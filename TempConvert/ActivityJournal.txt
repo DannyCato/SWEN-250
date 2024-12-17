@@ -1,0 +1,33 @@
+SWEN-250 Activity Reflection
+
+Name: Danny Catorcini
+
+================================================================
+Start Part 1
+Estimated Time	00 30 (1:13pm)
+Plan:
+1 make main
+2 build tempconvert
+
+Complete
+Actual Time	00 40 (1:53pm)
+Observations:
+Needed to figure out how many digits my int was to make sure the columns for the 
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+
+
+================================================================
+Start Part 2
+Estimated Time	01 15
+Plan:
+Copy Part 1
+Change small things every where to make it work again
+
+Complete
+Actual Time	00 15
+Observations:
+It's a lot easier to copy old code and refactor it to work than it is to start from scratch
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+
+
+================================================================

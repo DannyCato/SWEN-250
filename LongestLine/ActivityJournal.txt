@@ -1,0 +1,37 @@
+SWEN-250 Activity Reflection
+
+Name: Danny Catorcini
+
+================================================================
+Start Part 1
+Estimated Time	00 30
+Plan: 
+    Fill in ReadLine first using a getchar() for loop
+    Fill in copy (somehow)
+    Fill in main() and hope for the best
+
+Complete
+Actual Time	03 02
+Observations:
+It's really hard to do
+Need to be very specific with implementation because C is a 
+language that only has a few ways to do things
+There were 16 instances of errors or warnings, most coming from
+a single issue
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+
+
+================================================================
+Start Part 2
+Estimated Time	01 00
+Plan:
+(Order of implementation, testing approach, etc.)
+
+Complete
+Actual Time	00 30
+Observations:
+This is my first time using a Do-While Loop
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+
+
+================================================================

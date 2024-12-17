@@ -1,0 +1,31 @@
+SWEN-250 Activity Reflection
+
+Name: Danny Catorcini
+
+================================================================
+Start Part 1
+Estimated Time	00 30
+Plan: 
+Start by trying to understand assignment. Hopefully that goes
+well. I am going to start by creating the interface, then the 
+fucntion and then main
+
+Complete
+Actual Time	HH MM
+Observations:
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+
+
+================================================================
+Start Part 2
+Estimated Time	HH MM
+Plan:
+(Order of implementation, testing approach, etc.)
+
+Complete
+Actual Time	HH MM
+Observations:
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+
+
+================================================================

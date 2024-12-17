@@ -1,0 +1,18 @@
+SWEN-250 Activity Reflection
+
+Name: Danny Catorcini
+
+================================================================
+Start Part 1
+Estimated Time	00 45
+Plan: 
+Do it and do it right the first time :)
+
+Complete
+Actual Time	05 24
+Observations:
+stdin is confusing and input redirection is also quite confusing
+use if you do not know what it is. I did learn a lot though so I 
+am happy about that
+
+================================================================
