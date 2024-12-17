@@ -1,0 +1,13 @@
+main.cpp
+-- General file handling operations
+
+markdownconvert.cpp (OUTPUT CLASS)
+-- Takes lines from parser and writes them to the file
+-- outFile is a pointer if the output location wants to be changed for whatever reason
+
+-- general flow is:
+    -- gets sent line from parser to put into file
+    -- line goes to corresponding method for reading
+    -- line gets processed and converted into html formatting
+    -- html formatting is correctly dressed
+    -- written into file

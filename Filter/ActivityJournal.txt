@@ -1,0 +1,21 @@
+SWEN-250 Activity Reflection
+
+Name: Danny Catorcini
+
+================================================================
+Start
+Estimated Time	02 00
+Plan:
+Go from top down and try to use given functions and look for
+implentations of malloc and free to make this assignment a
+little easier
+
+Complete
+Actual Time	04 30
+Observations:
+malloc and free are really hard to use. I kept on freeing the
+wrong pointer and learning to save the starting pointer when
+iterating over a string was a good lesson to learn. 
+
+
+================================================================

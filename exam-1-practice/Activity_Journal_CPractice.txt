@@ -1,0 +1,33 @@
+SWEN-250 Activity Journal
+C (no pointers) Practice Practicum
+
+Name: Danny Catorcini
+
+================================================================
+skip_spaces
+Actual Time	06
+Lessons learned, problems encountered, obstacles overcome, etc.
+
+================================================================
+find_next_word
+Actual Time	15
+Lessons learned, problems encountered, obstacles overcome, etc.
+
+================================================================
+change_to_upper
+Actual Time	09
+Lessons learned, problems encountered, obstacles overcome, etc.
+
+================================================================
+capitialize_all_words
+Actual Time	15
+Lessons learned, problems encountered, obstacles overcome, etc.
+
+================================================================
+fix_bad_code
+Actual Time	32
+Structs are hard and you need to be careful when declaring them
+otherwise you'll end up with a bunch of errors that you don't
+understand
+
+================================================================

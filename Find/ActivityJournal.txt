@@ -1,0 +1,21 @@
+SWEN-250 Activity Reflection
+
+Name: Danny Catorcini
+
+================================================================
+Start
+Estimated Time	01 00
+Plan:
+start by going top to bottom as it looks like the functions
+increase in intesity as the assignments go farther down and i am
+hoping i can use the earlier functions to make it work
+
+Complete
+Actual Time	01 30
+Observations:
+Trying to make loops of strings without indexing feels really
+unintuitive, but the ++ operator has become my best friend for 
+them. It always poses a unique problem and I feel that my 
+ability to use pointers increased greatly
+
+================================================================
